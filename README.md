@@ -5,7 +5,7 @@ It's basically a command line tool, but it uses the *zenity* window to show prog
 
 **Installation of dependencies (Ubuntu):**
 
-apt-get install imagemagick hugin-tools exiftool
+    apt-get install imagemagick hugin-tools exiftool
 
 Result from extremly dark hand-held images from phone camera. Stacked 8,16,32 and 59 images, first line original, second adjusted and sharpened.
 
