@@ -1,6 +1,6 @@
 #!/bin/bash
 # user script written for Nautilus context menu, but working universaly
-# align selected images and stack them to one by averaging (or median) to reduce noise
+# align selected images and merge them to one by averaging to reduce noise, or remove moving objects by using median method
 # © GdH GPL v2 or later
 # apt-get install imagemagick hugin-tools exiftool
 
